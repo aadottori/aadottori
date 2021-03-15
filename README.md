@@ -2,7 +2,7 @@
 
 ### I'm Antonio Dottori, 
 
-Back End Developer Python | Electrical Engineering Student at Universidade Federal do Rio de Janeiro (UFRJ), Brasil. 👨🏻‍💻 
+Python Back End Developer | Electrical Engineering Student at Universidade Federal do Rio de Janeiro (UFRJ), Brasil. 👨🏻‍💻 
 
 <p>&nbsp;</p>
 
